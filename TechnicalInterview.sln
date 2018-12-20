@@ -11,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasGlobal.Interview.Dao", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasGlobal.Interview", "MasGlobal.Interview\MasGlobal.Interview.csproj", "{09281121-62A1-4BA5-9575-FDBBABC6FB17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{646BFA0C-DE7F-4DD0-A498-7324F2C7355C}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasGlobal.Interview.BusinessLogic", "MasGlobal.Interview.BusinessLogic\MasGlobal.Interview.BusinessLogic.csproj", "{B463105A-650F-480E-8F7D-5EB97B5EB12E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{E0C2100F-138C-4E92-ACEB-C5E3E053C7AD}"
@@ -39,10 +37,6 @@ Global
 		{09281121-62A1-4BA5-9575-FDBBABC6FB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09281121-62A1-4BA5-9575-FDBBABC6FB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09281121-62A1-4BA5-9575-FDBBABC6FB17}.Release|Any CPU.Build.0 = Release|Any CPU
-		{646BFA0C-DE7F-4DD0-A498-7324F2C7355C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{646BFA0C-DE7F-4DD0-A498-7324F2C7355C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{646BFA0C-DE7F-4DD0-A498-7324F2C7355C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{646BFA0C-DE7F-4DD0-A498-7324F2C7355C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B463105A-650F-480E-8F7D-5EB97B5EB12E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B463105A-650F-480E-8F7D-5EB97B5EB12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B463105A-650F-480E-8F7D-5EB97B5EB12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
