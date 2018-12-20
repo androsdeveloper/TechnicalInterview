@@ -3,7 +3,6 @@ C:\Users\andresfa\source\repos\TechnicalInterview\Dto\bin\Debug\Dto.pdb
 C:\Users\andresfa\source\repos\TechnicalInterview\Dto\bin\Debug\Newtonsoft.Json.dll
 C:\Users\andresfa\source\repos\TechnicalInterview\Dto\bin\Debug\Newtonsoft.Json.pdb
 C:\Users\andresfa\source\repos\TechnicalInterview\Dto\bin\Debug\Newtonsoft.Json.xml
-C:\Users\andresfa\source\repos\TechnicalInterview\Dto\obj\Debug\MasGlobal.Interview.Dto.csprojAssemblyReference.cache
 C:\Users\andresfa\source\repos\TechnicalInterview\Dto\obj\Debug\MasGlobal.Interview.Dto.csproj.CoreCompileInputs.cache
 C:\Users\andresfa\source\repos\TechnicalInterview\Dto\obj\Debug\MasGlobal.Interview.Dto.csproj.CopyComplete
 C:\Users\andresfa\source\repos\TechnicalInterview\Dto\obj\Debug\Dto.dll
