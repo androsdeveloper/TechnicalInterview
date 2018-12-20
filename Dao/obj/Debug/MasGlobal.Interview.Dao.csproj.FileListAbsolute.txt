@@ -1,0 +1,14 @@
+C:\Users\andresfa\source\repos\TechnicalInterview\Dao\bin\Debug\Dao.dll
+C:\Users\andresfa\source\repos\TechnicalInterview\Dao\bin\Debug\Dao.pdb
+C:\Users\andresfa\source\repos\TechnicalInterview\Dao\bin\Debug\Dto.dll
+C:\Users\andresfa\source\repos\TechnicalInterview\Dao\bin\Debug\MasGlobal.Interview.dll
+C:\Users\andresfa\source\repos\TechnicalInterview\Dao\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andresfa\source\repos\TechnicalInterview\Dao\bin\Debug\Dto.pdb
+C:\Users\andresfa\source\repos\TechnicalInterview\Dao\bin\Debug\MasGlobal.Interview.pdb
+C:\Users\andresfa\source\repos\TechnicalInterview\Dao\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\andresfa\source\repos\TechnicalInterview\Dao\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andresfa\source\repos\TechnicalInterview\Dao\obj\Debug\MasGlobal.Interview.Dao.csprojAssemblyReference.cache
+C:\Users\andresfa\source\repos\TechnicalInterview\Dao\obj\Debug\MasGlobal.Interview.Dao.csproj.CoreCompileInputs.cache
+C:\Users\andresfa\source\repos\TechnicalInterview\Dao\obj\Debug\MasGlobal.Interview.Dao.csproj.CopyComplete
+C:\Users\andresfa\source\repos\TechnicalInterview\Dao\obj\Debug\Dao.dll
+C:\Users\andresfa\source\repos\TechnicalInterview\Dao\obj\Debug\Dao.pdb

@@ -1,0 +1,17 @@
+C:\Users\andresfa\source\repos\TechnicalInterview\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\andresfa\source\repos\TechnicalInterview\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\andresfa\source\repos\TechnicalInterview\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\andresfa\source\repos\TechnicalInterview\ConsoleApp1\bin\Debug\Dao.dll
+C:\Users\andresfa\source\repos\TechnicalInterview\ConsoleApp1\bin\Debug\Dto.dll
+C:\Users\andresfa\source\repos\TechnicalInterview\ConsoleApp1\bin\Debug\MasGlobal.Interview.dll
+C:\Users\andresfa\source\repos\TechnicalInterview\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andresfa\source\repos\TechnicalInterview\ConsoleApp1\bin\Debug\Dao.pdb
+C:\Users\andresfa\source\repos\TechnicalInterview\ConsoleApp1\bin\Debug\Dto.pdb
+C:\Users\andresfa\source\repos\TechnicalInterview\ConsoleApp1\bin\Debug\MasGlobal.Interview.pdb
+C:\Users\andresfa\source\repos\TechnicalInterview\ConsoleApp1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\andresfa\source\repos\TechnicalInterview\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andresfa\source\repos\TechnicalInterview\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\andresfa\source\repos\TechnicalInterview\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\andresfa\source\repos\TechnicalInterview\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\andresfa\source\repos\TechnicalInterview\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\andresfa\source\repos\TechnicalInterview\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

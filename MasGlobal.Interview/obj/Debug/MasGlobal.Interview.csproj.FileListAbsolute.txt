@@ -1,0 +1,12 @@
+C:\Users\andresfa\source\repos\TechnicalInterview\MasGlobal.Interview\bin\Debug\MasGlobal.Interview.dll
+C:\Users\andresfa\source\repos\TechnicalInterview\MasGlobal.Interview\bin\Debug\MasGlobal.Interview.pdb
+C:\Users\andresfa\source\repos\TechnicalInterview\MasGlobal.Interview\bin\Debug\Dto.dll
+C:\Users\andresfa\source\repos\TechnicalInterview\MasGlobal.Interview\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andresfa\source\repos\TechnicalInterview\MasGlobal.Interview\bin\Debug\Dto.pdb
+C:\Users\andresfa\source\repos\TechnicalInterview\MasGlobal.Interview\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\andresfa\source\repos\TechnicalInterview\MasGlobal.Interview\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andresfa\source\repos\TechnicalInterview\MasGlobal.Interview\obj\Debug\MasGlobal.Interview.csprojAssemblyReference.cache
+C:\Users\andresfa\source\repos\TechnicalInterview\MasGlobal.Interview\obj\Debug\MasGlobal.Interview.csproj.CoreCompileInputs.cache
+C:\Users\andresfa\source\repos\TechnicalInterview\MasGlobal.Interview\obj\Debug\MasGlobal.Interview.csproj.CopyComplete
+C:\Users\andresfa\source\repos\TechnicalInterview\MasGlobal.Interview\obj\Debug\MasGlobal.Interview.dll
+C:\Users\andresfa\source\repos\TechnicalInterview\MasGlobal.Interview\obj\Debug\MasGlobal.Interview.pdb

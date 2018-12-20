@@ -1,0 +1,24 @@
+﻿th {
+    padding: 5px;
+}
+
+thead {
+    background-color: #21618C;
+    color: white;
+    font-weight: 400;
+    text-align: center;
+    border-radius: 5px;
+}
+
+tbody {
+    text-align: center;
+    font-size: 14px;
+}
+
+.RowImpar {
+    background-color: #D6EAF8;
+}
+
+.RowPar {
+    background-color: #AED6F1;
+}
